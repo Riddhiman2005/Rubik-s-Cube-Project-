@@ -5,4 +5,4 @@ Total Words:18105  <br/>
 Headers:72  <br/>
 Math Inline:1332  <br/>
 Math Display:120  <br/>
-Images : 
+Images : 74
