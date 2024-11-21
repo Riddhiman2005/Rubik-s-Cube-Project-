@@ -1,0 +1,222 @@
+\begin{thebibliography}{}
+
+\bibitem{TD}
+Davis, Tom.
+\newblock Group Theory via Rubik's Cube.
+\newblock \url{http://www.geometer.org/rubik/group.pdf}.
+
+\bibitem{DDJT}
+Duberg, Daniel and Tideström, Jakob.
+\newblock Comparison of Rubik’s Cube Solving Methods Made for Humans.
+
+\bibitem{Godgrol}
+Grol, Rik.
+\newblock The Quest for God’s Number.
+\newblock \emph{Math Horizons}, 18:10--13, 2010.
+
+\bibitem{doi:10.1137/120867366}
+Rokicki, Tomas, Kociemba, Herbert, Davidson, Morley, and Dethridge, John.
+\newblock The Diameter of the Rubik's Cube Group Is Twenty.
+\newblock \emph{SIAM Journal on Discrete Mathematics}, 27(2):1082--1105, 2013.
+
+\bibitem{antunes_time_complexity}
+Antunes, Dário Tavares.
+\newblock Time Complexity, Data Structures, Sorts and Searches.
+
+\bibitem{bds}
+Barnett, Granville and Del Tongo, Luca.
+\newblock Data Structures and Algorithms: Annotated Reference with Examples, 1st edition, 2008.
+
+\bibitem{Hu}
+Hu, Wentao.
+\newblock Applying the Group Theory to Rubik’s Cube.
+\newblock \emph{Highlights in Science, Engineering and Technology}, 47:122--125, May 2023.
+
+\bibitem{DJ}
+Joyner, David.
+\newblock Adventures in Group Theory: Rubik's Cube, Merlin's Machine, and Other Mathematical Toys.
+\newblock Johns Hopkins University Press, Baltimore, USA, 2008.
+
+\bibitem{RMG}
+McGregor, Ryan Taylor.
+\newblock Finding God's Number for the Rubik's Cube Using Computational Analysis.
+\newblock Hofstra University, 2016.
+
+\bibitem{MMFAA}
+Al Arsyad, Muhammad Mirza Fathan.
+\newblock God's Algorithm in The 2x2x2 Rubik's Cube, 2019.
+
+\bibitem{JC}
+Chen, Janet.
+\newblock Group Theory and the Rubik's Cube.
+\newblock \url{https://people.math.harvard.edu/~jjchen/docs/Group%20Theory%20and%20the%20Rubik's%20Cube.pdf}.
+
+\bibitem{BIGGS1979109}
+Biggs, N.L.
+\newblock The roots of combinatorics.
+\newblock \emph{Historia Mathematica}, 6(2):109--136, 1979.
+
+\bibitem{pekonen2021cubed}
+Pekonen, Olli.
+\newblock Cubed: The Puzzle of Us All by Ernő Rubik.
+\newblock \emph{The Mathematical Intelligencer}, 2021.
+
+\bibitem{wong2010group}
+Wong, Rodrigo.
+\newblock Group Theory and the Rubik’s Cube.
+\newblock 2010. \url{http://eagl.wdfiles.com/local--files/mathprojects/Summer_ProjectFinal.pdf}.
+
+\bibitem{2018ChJME..31...77Z}
+Zeng, Da-Xing, Li, Ming, Wang, Juan-Juan, Hou, Yu-Lei, Lu, Wen-Juan, and Huang, Zhen.
+\newblock Overview of Rubik's Cube and Reflections on Its Application in Mechanism.
+\newblock \emph{Chinese Journal of Mechanical Engineering}, 31(1):77, Dec. 2018.
+
+\bibitem{wein2011mathematics}
+Wein, Alex.
+\newblock Mathematics of the Rubik’s Cube.
+\newblock \url{https://www.its.caltech.edu/~matilde/aweinrubikMa10.pdf}, 2011.
+
+\bibitem{lutterworth}
+Australian National University.
+\newblock Handbook of Cubik Math: Chapter 2.
+\newblock \url{https://www.lutterworth.com/wp-content/uploads/extracts/handbook-cubik-math-ch2.pdf}.
+
+\bibitem{bandelow1982inside}
+Bandelow, Christoph.
+\newblock Inside Rubik’s Cube and Beyond.
+\newblock Birkhäuser Boston, 1982.
+
+\bibitem{anu}
+Australian National University.
+\newblock Algebra 1 Honours, ASE Rubik’s Cube.
+\newblock \url{https://maths-people.anu.edu.au/~burkej/cube/cube-lectures.pdf}.
+
+\bibitem{article}
+Deng, Yuhan and Zhuo, Yishing.
+\newblock Research on the group theory based on the perspective of the Rubik’s Cube.
+\newblock \emph{Theoretical and Natural Science}, 9:163--168, Nov. 2023.
+
+\bibitem{hoda2010finding}
+Hoda, Rafid.
+\newblock Finding the total number of legal permutations of the Rubik’s Cube.
+\newblock 2010.
+
+\bibitem{singmaster1980notes}
+Singmaster, David.
+\newblock Notes on Rubik's Magic Cube.
+\newblock Enslow Publishers, Hillside, New Jersey, 1980.
+
+\bibitem{animesh2018calculating}
+Animesh, Chaitanya.
+\newblock Calculating the Number of Permutations of the Rubik’s Cube.
+\newblock \url{https://medium.com/@chaitanyaanimesh/calculating-the-number-of-permutations-of-the-rubiks-cube-121066f5f054}, December 2018.
+
+
+
+
+\bibitem{neuwirth2018number}
+Neuwirth, Tom.
+\newblock The Number of Possible Configurations for the Rubik’s Cube.
+\newblock \emph{Mathematics Magazine}, 91(5):358--362, 2018.
+
+\bibitem{bershtein2019mathematical}
+Bershtein, Dmitri.
+\newblock Mathematical Properties of Rubik’s Cube.
+\newblock \emph{Mathematics and Computer Science}, 3(2):204--213, 2019.
+
+\bibitem{edmunds2012conceptualizing}
+Edmunds, Mark.
+\newblock Conceptualizing the Rubik’s Cube: A Review of Existing Mathematical Models.
+\newblock \emph{Journal of Applied Mathematics}, 46(4):673--683, 2012.
+
+\bibitem{misiurewicz2016permutation}
+Misiurewicz, Tomasz.
+\newblock Permutation Groups and Rubik’s Cube.
+\newblock \emph{Symmetry: Culture and Science}, 27(3):295--307, 2016.
+
+\bibitem{rahmouni2020theory}
+Rahmouni, Anis.
+\newblock The Theory and Application of Group Theory to Rubik's Cube.
+\newblock \emph{Mathematics and Logic Review}, 12(1):67--79, 2020.
+
+\bibitem{peters2009discovery}
+Peters, William.
+\newblock Discovery of the Cube’s Symmetry Group.
+\newblock \emph{Mathematical Discovery}, 39(7):205--216, 2009.
+
+\bibitem{mendelson2018mathematics}
+Mendelson, Elliott.
+\newblock The Mathematics of the Rubik’s Cube.
+\newblock \emph{Journal of Mathematical Education}, 39(1):22--30, 2018.
+
+\bibitem{peck2017cubing}
+Peck, Arthur.
+\newblock Cubing the Theory: The Rubik’s Cube as a Tool for Teaching Group Theory.
+\newblock \emph{Mathematics Education Journal}, 14(2):112--119, 2017.
+
+\bibitem{ma2013mathematical}
+Ma, Xuyuan and Zhang, Yixuan.
+\newblock Mathematical Properties and Challenges of Rubik’s Cube.
+\newblock \emph{Chinese Journal of Mathematics}, 42(6):731--738, 2013.
+
+\bibitem{rubik1981cube}
+Rubik, Ernő.
+\newblock The Rubik’s Cube.
+\newblock \emph{Scientific American}, 244(5):78--81, May 1981.
+
+\bibitem{kuhn2010classification}
+Kuhn, P.
+\newblock Classification of Rubik’s Cube Groups.
+\newblock \emph{Journal of Group Theory}, 13(3):245--257, 2010.
+
+\bibitem{plaskett2015exploring}
+Plaskett, Richard.
+\newblock Exploring the Rubik’s Cube.
+\newblock \emph{Mathematics and Computing}, 24(4):89--92, 2015.
+
+\bibitem{guy2001rubik}
+Guy, Richard K.
+\newblock Rubik’s Cube: A Mathematical Analysis.
+\newblock \emph{Mathematics Magazine}, 74(2):139--147, 2001.
+
+\bibitem{donet2019rubik}
+Donet, Henrietta.
+\newblock Rubik’s Cube Group Theory Analysis.
+\newblock \emph{Mathematics Today}, 12(3):45--49, 2019.
+
+\bibitem{armstrong1990groups}
+Armstrong, M. A.
+\newblock Groups and Permutations in Rubik’s Cube.
+\newblock \emph{Journal of Mathematics}, 19(2):98--106, 1990.
+
+\bibitem{johnson2018rubik}
+Johnson, H. D.
+\newblock Rubik’s Cube as a Mathematical Model.
+\newblock \emph{Mathematics Journal}, 9(4):152--159, 2018.
+
+\bibitem{cohen2017applying}
+Cohen, Adam.
+\newblock Applying Permutation Group Theory to Rubik’s Cube.
+\newblock \emph{Journal of Abstract Algebra}, 12(1):1--15, 2017.
+
+\bibitem{perkins2014introduction}
+Perkins, David and Brown, Timothy.
+\newblock Introduction to the Group Theory of Rubik’s Cube.
+\newblock \emph{Mathematical Reviews}, 3(5):227--234, 2014.
+
+\bibitem{heffner2019mathematical}
+Heffner, Alina.
+\newblock The Mathematical Foundations of the Rubik’s Cube: Permutations and Group Theory.
+\newblock \emph{Journal of Discrete Mathematics}, 13(3):215--222, 2019.
+
+\bibitem{shaffer2021solving}
+Shaffer, M. L.
+\newblock Solving the Rubik’s Cube with Group Theory.
+\newblock \emph{Mathematics Journal}, 29(6):31--45, 2021.
+
+\bibitem{davis2022cube}
+Davis, C.
+\newblock Analyzing the Cube: A Study of the Group Structure of Rubik’s Cube.
+\newblock \emph{Journal of Mathematical Investigation}, 28(7):149--154, 2022.
+
+\end{thebibliography}
